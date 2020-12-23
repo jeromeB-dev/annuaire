@@ -1,0 +1,18 @@
+* {
+    transition: all 0.1s ease;
+}
+
+.male {
+    color: blue;
+}
+
+.female {
+    color: palevioletred;
+}
+
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    /* display: none; */
+}
